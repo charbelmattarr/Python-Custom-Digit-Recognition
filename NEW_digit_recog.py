@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 21 14:38:53 2015
 
-@author: Pavitrakumar
-
-"""
 
 import numpy as np
 # from scipy.misc.pilutil import imresize
